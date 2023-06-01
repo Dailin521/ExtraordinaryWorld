@@ -2,3 +2,7 @@ Library/
 Assets/AssetsPackage/
 Logs/
 Packages/
+Bundles/
+Sandbox/
+obj/
+.vs/
